@@ -1,4 +1,4 @@
-/-!
+-!
 # JSP-000307 — Lean 4.20.0, no Mathlib
 Counterexample: n=13: P(13)=13 > P(14)=7 > P(15)=5.
 Helpers copied verbatim from JSP000301.lean (same repo, verified build).
